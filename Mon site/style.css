@@ -1,0 +1,106 @@
+ body {
+      padding-left: 10em;
+      font-family: Georgia, "Times New Roman",
+          Times, serif;
+      color: black;
+     }
+      ul.navbar {
+        text-align: center;
+        list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 10em;
+    left: 38em;
+    width: 7em }
+      h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+          ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: black }
+  a:visited {
+    color: black }
+    address {
+    margin-top: 13em;
+    padding-top: 12em;
+    margin-right: 35px;
+    margin-left: 200px;
+    border-top: none; }
+
+   h1{
+       color: green;
+       text-align: center;
+   }
+
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+} 
+
+p{
+  color: white
+}
+address{
+  color: black
+  vertical-align: bottom;
+  text-align: left;
+}
+
+ img {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top: 10px;right: 526px;
+} 
+
+h2{
+  text-align: center;
+  vertical-align: middle;
+  color: red;
+}
+
+
+#fin{
+    position : absolute;
+  bottom : 0px;
+}
+
+.Insta{
+  height: 30px;
+  width: 40px;
+  position: absolute;
+  top: 24em;
+  left: 41.5em;
+
+}
+
+.tweet{
+  height: 21px;
+  width: 21px;
+  position: absolute;
+  top: 24em;
+  left: 39.5em;
+}
+
+.ToS{
+  position: absolute;
+  top: 30em;
+  text-align: center;
+}
+
+.Profil{
+  position: all;
+  left: 37em; 
+  }
+
+  .Copyrights{
+    position: absolute;
+    top: 20em
+  }

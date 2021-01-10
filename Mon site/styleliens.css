@@ -1,0 +1,10 @@
+a{
+	color: grey;
+}
+
+a:link{
+	color: black
+}
+a:visited{
+	color: black
+}
